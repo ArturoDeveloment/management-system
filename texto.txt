@@ -1,0 +1,4 @@
+ - cambiar parte de inicio
+ - documentar el create.py, module_create_file, archivos py de database, window_add_dbs.py
+ - creacion de archivos en carpetas / excluir carpetas del sistema 
+ - seguir con el modo de leer datos / generar tablas con la tabla que el usuario indique 
